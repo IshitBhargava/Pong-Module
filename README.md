@@ -42,3 +42,14 @@ ________________________________________________________________________________
 <code>import sys
    sys.path
 </code>
+________________________________________________________________________________________________
+
+**Using It:**
+
+<pre>
+   after saving the file in the directory, you can run the following code in IDLE to run the game
+</pre>
+<code>from pong import maingame
+</code>
+_________________________________________________________________________________________________
+
