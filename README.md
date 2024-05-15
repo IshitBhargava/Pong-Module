@@ -21,7 +21,6 @@ This is simple module using the main CyberPong game!
    to install them, run:
 </pre>
 
-<code>
-   pip install pygame os sounddevice numpy textwrap
+<code>pip install pygame os sounddevice numpy textwrap
 </code>
 
