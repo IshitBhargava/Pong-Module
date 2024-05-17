@@ -42,6 +42,12 @@ ________________________________________________________________________________
 <code>import sys
    sys.path
 </code>
+<pre>
+   If the following doesn't work for you, then you can try to just save the 'maingame.py' file 
+   without the folder and try:
+</pre>
+<code>import maingame
+</code>
 ________________________________________________________________________________________________
 
 **Using It:**
